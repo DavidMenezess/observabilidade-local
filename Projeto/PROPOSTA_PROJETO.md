@@ -1,11 +1,3 @@
-# 📋 Proposta de Projeto: Infrastructure Health Monitor
-
-## 🎯 Ideia do Projeto
-
-Criar um sistema completo de monitoramento que colete métricas do sistema operacional (CPU, memória, disco, rede) e as exiba em dashboards visuais. O projeto deve usar **todas as suas skills** de forma integrada.
-
----
-
 ## 🏗️ Arquitetura Sugerida
 
 ### Componentes Principais:
