@@ -40,7 +40,7 @@ git --version
 
 ```bash
 git clone https://github.com/DavidMenezess/observabilidade-local.git
-cd observabilidade-local/Projeto
+cd observabilidade-local
 ```
 
 ### Passo 2: Criar ambiente virtual Python
@@ -117,7 +117,7 @@ Após iniciar todos os serviços, você pode acessar:
 ## 📁 Estrutura do Projeto
 
 ```
-Projeto/
+.
 ├── docker-compose.yml          # Configuração dos containers
 ├── requirements.txt            # Dependências Python
 ├── README.md                   # Este arquivo
