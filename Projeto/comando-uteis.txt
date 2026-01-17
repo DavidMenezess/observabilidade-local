@@ -1,0 +1,13 @@
+#Entre na pasta do projeto e usa esses comandos
+#Em um terminal separado (deixe rodando):
+
+source venv/bin/activate
+python3 -m src.collector.exporter
+
+#comandos docker compose
+
+docker compose up -d        # Subir serviços
+docker compose down         # Parar serviços
+docker compose ps           # Ver status
+docker compose logs         # Ver logs
+docker compose logs -f      # Ver logs em tempo real

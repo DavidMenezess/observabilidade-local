@@ -1,0 +1,1 @@
+# Arquivo vazio - necessário para Python reconhecer src como pacote
