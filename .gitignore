@@ -32,5 +32,8 @@ Thumbs.db
 *.bak
 *.swp
 
-# AWS CLI (se não quiser versionar)
-aws/awscliv2.zip
+# Pastas que não devem ser versionadas
+windows/
+aulas python/
+Projeto/aws/
+Projeto/awscliv2.zip
